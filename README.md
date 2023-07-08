@@ -1,10 +1,11 @@
 # kenys_portfolio
+
 Data Science Project
 
 # Project 1: Comcast Complaints Analysis
 Project Description: Comcast Complaint Analysis
 
-Welcome to the Comcast Complaint Analysis project, where we embark on a journey to understand the frustrations, concerns, and experiences of Comcast customers. Our mission is to empower both Comcast and its customers by diving deep into the data and unearthing valuable insights that can shape a better customer experience.
+Welcome to the Comcast Complaint Analysis project, where we try to understand the frustrations, concerns, and experiences of Comcast customers. Our mission is to empower both Comcast and its customers by diving deep into the data and unearthing valuable insights that can shape a better customer experience.
 
 Project Features:
 
@@ -22,7 +23,7 @@ Listening to Customer Voices: Words carry immense power, and we pay close attent
 
 Discovering Key Topics: We embark on an intellectual exploration of the dataset, utilizing advanced topic modeling techniques. By uncovering key topics within customer complaints, we gain invaluable insights into the underlying themes and issues that matter most.
 
-Technologies and Tools Used:
+Libraries Used:
 
 Python - Our trusted companion for data analysis and manipulation
 Pandas - Unleashing the power of data to reveal compelling stories
@@ -31,6 +32,5 @@ WordCloud - Transforming words into captivating visuals, reflecting the collecti
 Gensim - Unlocking the hidden patterns and themes through advanced topic modeling
 PyLDAvis - Enhancing the visualization of topic models, making them more accessible and interactive
 
-Join us on this exciting journey as we delve into the world of Comcast complaints. Together, we can shape a better customer experience, address concerns proactively, and foster stronger connections between Comcast and its valued customers.
 
 Feel free to personalize and adapt this description to reflect your own voice and the unique story of your project. Let the passion for understanding customer experiences shine through!
